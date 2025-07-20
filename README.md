@@ -58,15 +58,16 @@
 <br>
 <br>
 
+
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=krsudal&show_icons=true&title_color=38bdf8&text_color=e2e8f0&icon_color=facc15&border_color=1e293b&bg_color=0f172a,1e293b,38bdf8" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=krsudal&layout=compact&theme=transparent&title_color=f472b6&text_color=1e293b&border_color=1e293b&bg_color=a5f3fc,cbd5e1,e0f2fe" />
+  <img src="https://github-readme-stats.vercel.app/api?username=krsudal&show_icons=true&title_color=f472b6&text_color=e2e8f0&icon_color=facc15&border_color=1e293b&bg_color=0f172a,1e293b,38bdf8" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=krsudal&layout=compact&theme=transparent&text_color=1e293b&border_color=1e293b&bg_color=60a5fa,7dd3fc,b9e6fe" />
 </p>
 
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=krsudal&show_icons=true&theme=transparent&title_color=ffffff&text_color=a0a0a0&icon_color=38bdf8&border_color=1e293b&bg_color=0f172a,1e293b,38bdf8" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=krsudal&layout=compact&theme=transparent&text_color=a0a0a0&border_color=1e293b" />
+  <img src="https://github-readme-stats.vercel.app/api?username=krsudal&show_icons=true&theme=transparent&title_color=ffffff&text_color=e2e8f0&icon_color=facc15&border_color=1e293b&bg_color=0f172a,1e293b,38bdf8" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=krsudal&layout=compact&theme=transparent&text_color=a0a0a0&border_color=1e293b&bg_color=60a5fa,7dd3fc,b9e6fe" />
 </p>
 
 <!--
