@@ -37,6 +37,7 @@
 <div>
   <img src="https://img.shields.io/badge/LANG-Java-007396?style=for-the-badge&logo=openjdk&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/WEB-HTML-E34F26?style=for-the-badge&logo=html&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/LANG-SQL-4479A1?style=for-the-badge&logoColor=white" />&nbsp
 </div>
 
 <br>
