@@ -1,5 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=blur&color=auto&height=150&section=header&text=capsule%20render&fontSize=90))
-## Data Science and more
+![header](https://capsule-render.vercel.app/api?type=blur&color=gradient&customColorList=30,19,12,24,6,1&height=250&&section=header&text=Data%20Science,%20IT%20Solutions,%20and%20more&desc=@krsudal&descAlign=89&descAlignY=65&fontColor=000000&animation=fadeIn&fontSize=40)
 
 <!--
 **krsudal/krsudal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
