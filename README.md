@@ -42,27 +42,26 @@
 
 <br>
 
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=krsudal&show_icons=true&title_color=f472b6&text_color=e2e8f0&icon_color=facc15&border_color=1e293b&bg_color=0f172a,1e293b,38bdf8" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=krsudal&layout=compact&theme=transparent&text_color=1e293b&border_color=1e293b&bg_color=60a5fa,7dd3fc,b9e6fe" />
+</p>
+
+<br>
+
 <h3>Contacts</h3>
 <div>
   <a href="mailto:zkrpglfkalzk1226@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />&nbsp
   </a>
-  <a href="https://your-portfolio.com" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=web&logoColor=white" />&nbsp
+  <a href="https://krsudal.netlify.app" target="_blank">
+    <img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=web&logoColor=white" />&nbsp
   </a>
   <a href="https://github.com/krsudal" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />&nbsp
   </a>
 </div>
 
-<br>
-<br>
-<br>
-
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=krsudal&show_icons=true&title_color=f472b6&text_color=e2e8f0&icon_color=facc15&border_color=1e293b&bg_color=0f172a,1e293b,38bdf8" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=krsudal&layout=compact&theme=transparent&text_color=1e293b&border_color=1e293b&bg_color=60a5fa,7dd3fc,b9e6fe" />
-</p>
 
 <!--
 **krsudal/krsudal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
