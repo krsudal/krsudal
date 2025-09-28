@@ -33,15 +33,6 @@
 
 <br>
 
-＃<h3>Learning Roadmap</h3>
-＃＃<div>
-  ＃＃＃<img src="https://img.shields.io/badge/LANG-Java-007396?style=for-the-badge&logo=openjdk&logoColor=white" />&nbsp
-  ＃＃＃＃<img src="https://img.shields.io/badge/WEB-HTML-E34F26?style=for-the-badge&logo=html&logoColor=white" />&nbsp
-  ＃＃＃＃＃<img src="https://img.shields.io/badge/LANG-SQL-4479A1?style=for-the-badge&logoColor=white" />&nbsp
-＃＃＃＃＃＃</div>
-
-<br>
-
 <p>
   <img src="https://github-readme-stats.vercel.app/api?username=krsudal&show_icons=true&title_color=f472b6&text_color=e2e8f0&icon_color=facc15&border_color=1e293b&bg_color=0f172a,1e293b,38bdf8" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=krsudal&layout=compact&theme=transparent&text_color=1e293b&border_color=1e293b&bg_color=60a5fa,7dd3fc,b9e6fe&cache_seconds=3600" />
