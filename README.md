@@ -23,11 +23,9 @@
 <div>
   <img src="https://img.shields.io/badge/LLM-OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/VECTOR-FAISS-006666?style=for-the-badge&logo=matrix&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/ARCH-RAG-8e44ad?style=for-the-badge&logo=semantic-release&logoColor=white" />&nbsp
 </div>
 
 <div>
-  <img src="https://img.shields.io/badge/WEB-FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/WEB-Gradio-17A34A?style=for-the-badge&logo=gradio&logoColor=white" />&nbsp
 </div>
 
