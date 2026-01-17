@@ -4,50 +4,45 @@
 <!--내용-->
 <h3>Skills & Tools</h3>
 <div>
-  <img src="https://img.shields.io/badge/LANG-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/LANG-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 </div>
 
 <div>
-  <img src="https://img.shields.io/badge/LIB-Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/LIB-Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/LIB-Seaborn-42a5f5?style=for-the-badge&logo=python&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/LIB-Sklearn-f7931e?style=for-the-badge&logo=scikit-learn&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/LIB-Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/LIB-Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white" />
+  <img src="https://img.shields.io/badge/LIB-Seaborn-42a5f5?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/LIB-Sklearn-f7931e?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/LIB-LangChain-006666?style=for-the-badge&logo=matrix&logoColor=white" />
 </div>
 
 <div>
-  <img src="https://img.shields.io/badge/FRAMEWORK-TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/FRAMEWORK-PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />&nbsp
-
+  <img src="https://img.shields.io/badge/FRAMEWORK-PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
 </div>
 
 <div>
-  <img src="https://img.shields.io/badge/LLM-OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/VECTOR-FAISS-006666?style=for-the-badge&logo=matrix&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/LLM-OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
 </div>
 
 <div>
-  <img src="https://img.shields.io/badge/WEB-Gradio-17A34A?style=for-the-badge&logo=gradio&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/WEB-Gradio-17A34A?style=for-the-badge&logo=gradio&logoColor=white" />
 </div>
 
 <br>
 
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=krsudal&show_icons=true&title_color=f472b6&text_color=e2e8f0&icon_color=facc15&border_color=1e293b&bg_color=0f172a,1e293b,38bdf8" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=krsudal&layout=compact&theme=transparent&text_color=1e293b&border_color=1e293b&bg_color=60a5fa,7dd3fc,b9e6fe&cache_seconds=3600" />
-</p>
-
-<br>
 
 <h3>Contacts</h3>
 <div>
   <a href="mailto:zkrpglfkalzk1226@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />&nbsp
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://krsudal.netlify.app" target="_blank">
-    <img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=web&logoColor=white" />&nbsp
+    <img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=web&logoColor=white" />
   </a>
   <a href="https://github.com/krsudal" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />&nbsp
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/chae-young-kim-4283673a5/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </div>
 
