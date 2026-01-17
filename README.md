@@ -1,5 +1,5 @@
 <!--타이틀-->
-![header](https://capsule-render.vercel.app/api?type=blur&color=gradient&customColorList=30,12,6,1&height=250&&section=header&text=Data%20Science,%20IT%20Solutions,%20and%20more&desc=@krsudal&descAlign=89&descAlignY=65&fontColor=000000&animation=fadeIn&fontSize=40) 
+![header](https://capsule-render.vercel.app/api?type=blur&color=gradient&customColorList=30,12,6,1&height=250&&section=header&text=Artificial%20Intelligence%20and%20Data%20Science&desc=@krsudal&descAlign=89&descAlignY=65&fontColor=000000&animation=fadeIn&fontSize=40) 
 
 <!--내용-->
 <h3>Skills & Tools</h3>
